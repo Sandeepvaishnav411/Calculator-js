@@ -2,7 +2,7 @@
 
 ## Calculator with the help of HTML,CSS,JS
 
-## [Click here](https://app.netlify.com/sites/calculator-app-sa/overview)
+## [Click here](https://calculator-app-sa.netlify.app/)
 
 ## 
 ![](./a.png)
